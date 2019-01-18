@@ -16,6 +16,10 @@ install dependency
 ```bash
 composer install
 ```
+key generate
+```bash
+php artisan key:generate
+```
 jalankan
 ```bash
 php artisan serve
